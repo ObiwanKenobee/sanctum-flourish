@@ -1,0 +1,7 @@
+{
+  "name": "Atlas Sanctum",
+  "description": "Civilization-scale ethical intelligence infrastructure for decision-making, capital allocation, and regenerative action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
